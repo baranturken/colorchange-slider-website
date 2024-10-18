@@ -6,6 +6,7 @@ Features
 Canvas Color Changer: Users can select a color using a color picker, and the background of the canvas will change accordingly.
 Square Generator: A slider is used to change the size of the squares drawn within the canvas dynamically.
 Button to Make the Canvas Black: A button allows users to instantly change the canvas color to black.
+
 Website
 The project is hosted via GitHub Pages and can be accessed at:
 
