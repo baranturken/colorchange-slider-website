@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Webpage</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 id="myHeader">Interactive Webpage</h1>
+    <h2 id="clrchng">Color Changer and Slider</h2>
+    <canvas id="canvas1"></canvas>
+    <p>
+        <input type="button" value="Make Black" onclick="makeblack()">
+        <input type="color" value="#FF0000" id="clr" onchange="changeColor()">
+        <input type="range" min="10" max="100" value="10" id="sldr" oninput="doSquare()">
+    </p>
+<div>made by Baran Turken</div>
+    <script src="script.js"></script>
+</body>
+</html>
