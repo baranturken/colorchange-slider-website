@@ -8,9 +8,11 @@ Square Generator: A slider is used to change the size of the squares drawn withi
 Button to Make the Canvas Black: A button allows users to instantly change the canvas color to black.
 
 Website
+
 The project is hosted via GitHub Pages and can be accessed at:
 
-Live Demo
+[**Live Demo**](https://baranturken.github.io/colorchange-slider-website/)
+
 
 Screenshot
 Here's what the interface looks like:
